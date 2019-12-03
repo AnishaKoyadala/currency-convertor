@@ -6,7 +6,7 @@ By default HKD to EUR.
 ## Service Architecture:
 
 -   ReactJS frontend
--   Node.js Epxress backend.
+-   Node.js Express backend.
 
 ## Service Features:
 
