@@ -6,7 +6,7 @@ docker run                  \
     --env "APP_HOST=localhost" \
     --env "APP_PORT=8090" \
     --env "FROM=HKD"  \
-    --env "TO=JPY"  \
+    --env "TO=EUR"  \
     --env "EXCHANGE_RATE_URL=https://api.exchangeratesapi.io"  \
     -v "${PWD}":/currencyConvertor \
     -w "/currencyConvertor"  \
