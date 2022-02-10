@@ -28,7 +28,7 @@
     "final-form": "^4.14.1",
     "final-form-arrays": "^1.1.2",
     "load-script": "^1.0.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react": "^16.8.6",
     "react-bootstrap-typeahead": "^3.4.5",
     "react-dom": "^16.8.6",
